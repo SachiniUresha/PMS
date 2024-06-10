@@ -1,0 +1,35 @@
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\bin\Debug\PMS.exe.config
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\bin\Debug\PMS.exe
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\bin\Debug\PMS.pdb
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.csprojResolveAssemblyReference.cache
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Login.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.csproj.GenerateResource.Cache
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.exe
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.pdb
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Customer.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Welcome.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Medicine.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Sales.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Supplier.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.User_Registration.resources
+C:\Users\Sachi\Desktop\c sharp\PMS\PMS\obj\Debug\PMS.Home_Page.resources
+F:\PMS\PMS\bin\Debug\PMS.exe.config
+F:\PMS\PMS\obj\Debug\PMS.exe
+F:\PMS\PMS\obj\Debug\PMS.pdb
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\bin\Debug\PMS.exe.config
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.exe
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.pdb
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\bin\Debug\PMS.exe
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\bin\Debug\PMS.pdb
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.csprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Customer.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Welcome.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Login.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Home_Page.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Medicine.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.User_Registration.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Sales.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.Supplier.resources
+C:\Users\ACER\OneDrive\Desktop\USB 2023.11.27\PMS1\PMS\obj\Debug\PMS.csproj.GenerateResource.Cache
